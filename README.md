@@ -1,2 +1,2 @@
 # hosting-website
-hosting
+hosting practice
